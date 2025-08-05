@@ -7,6 +7,19 @@
 My primary interests lie within embedded systems, industrial automation, and remote-controlled technologies. I thrive in environments that combine hardware and software, and I am passionate about building robust and scalable solutions.</p>
 </div>
 
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p> As a software technology student at DTU, I am continuously expanding my knowledge of programming languages and development tools. My academic journey has introduced me to various paradigms, from object-oriented and functional programming to low-level hardware interaction.
+
+I’m passionate about writing clean, maintainable code and always eager to learn new languages or deepen my understanding of existing ones. Whether it’s diving into memory management in C++ or prototyping quick solutions in Python, I enjoy the challenge each language brings.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+  
+  
+  
+
 <!--
 **OliverDolle/OliverDolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
