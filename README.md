@@ -1,5 +1,11 @@
-## Hi there 👋
 <div align="center"> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Oliver;This+is..;..my+Github..;" alt="Typing SVG"/> </h1> </div>
+
+<div align="center">
+    <h2>🎓 About Me</h2>
+    <p>I am currently pursuing a Bachelor of Science in Software Technology at the Technical University of Denmark (DTU). Alongside my studies, I am employed as a Student Assistant in the AI & Automation department at Nordic Transport Group (NTG), where I contribute to intelligent systems and workflow optimization.
+
+My primary interests lie within embedded systems, industrial automation, and remote-controlled technologies. I thrive in environments that combine hardware and software, and I am passionate about building robust and scalable solutions.</p>
+</div>
 
 <!--
 **OliverDolle/OliverDolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
