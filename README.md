@@ -11,14 +11,35 @@ My primary interests lie within embedded systems, industrial automation, and rem
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a software technology student at DTU, I am continuously expanding my knowledge of programming languages and development tools. My academic journey has introduced me to various paradigms, from object-oriented and functional programming to low-level hardware interaction.
 
-I’m passionate about writing clean, maintainable code and always eager to learn new languages or deepen my understanding of existing ones. Whether it’s diving into memory management in C++ or prototyping quick solutions in Python, I enjoy the challenge each language brings.</p>
+<p>
+As a Software Technology student at DTU, I am continuously expanding my knowledge of programming languages and development tools. My academic journey has introduced me to various paradigms, from object-oriented and functional programming to low-level hardware interaction.
+</p>
+
+<p>
+I’m passionate about writing clean, maintainable code and always eager to learn new languages or deepen my understanding of existing ones. Whether it’s diving into memory management in C++ or prototyping quick solutions in Python, I enjoy the challenge each language brings.
+</p>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
+</div>
+
+<h2 align="center" class="section-heading">🧩 Frameworks & Libraries</h2>
+
+<p>
+I also work with a range of frameworks and libraries for application development, web development, and AI-powered applications. I am particularly interested in modern frameworks for building scalable software and agentic AI systems.
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+</div>
+
 
   
   
