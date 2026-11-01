@@ -1,23 +1,24 @@
-<div align="center"> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Oliver;This+is..;..my+Github..;" alt="Typing SVG"/> </h1> </div>
-
 <div align="center">
-    <h2>🎓 About Me</h2>
-    <p>I am currently pursuing a Bachelor of Science in Software Technology at the Technical University of Denmark (DTU). Alongside my studies, I am employed as a Student Assistant in the AI & Automation department at Nordic Transport Group (NTG), where I contribute to intelligent systems and workflow optimization.
-
-My primary interests lie within embedded systems, agentic workflows, harness development, automation, and remote-controlled technologies. I thrive in environments that combine hardware and software, and I am passionate about building robust and scalable solutions.</p>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://alphaville.github.io/optimization-engine/img/docker.gif" width="100">
+  <img src="assets/terminal.svg" alt="Terminal window: Oliver, Software Technology student at DTU and Student Assistant in AI & Automation at NTG" width="720" />
 </div>
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<div align="center">
+  <h2>About Me</h2>
+  <p>I'm studying for a BSc in Software Technology at the Technical University of Denmark (DTU). Next to my studies I work as a student assistant on the AI & Automation team at Nordic Transport Group (NTG), where I help build intelligent systems and automate everyday workflows.</p>
+  <p>I enjoy work where hardware and software meet: embedded systems, remote-controlled projects, and more recently agentic workflows and the harnesses that run them. I like building things that are reliable and keep working as they grow.</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://alphaville.github.io/optimization-engine/img/docker.gif" width="100">
+</div>
+
+<h2 align="center">Programming Languages</h2>
 
 <p>
-As a Software Technology student at DTU, I am continuously expanding my knowledge of programming languages and development tools. My academic journey has introduced me to various paradigms, from object-oriented and functional programming to low-level hardware interaction.
+DTU has taken me across a lot of ground, from object-oriented and functional programming down to code that talks directly to hardware, and I keep adding new languages and tools as I go.
 </p>
 
 <p>
-I’m passionate about writing clean, maintainable code and always eager to learn new languages or deepen my understanding of existing ones. Whether it’s diving into memory management in C++ or prototyping quick solutions in Python, I enjoy the challenge each language brings.
+I care about writing code that is clean and easy to maintain. I'm always glad to pick up a new language or dig deeper into one I already know, whether that means managing memory by hand in C++ or putting together a quick prototype in Python.
 </p>
 
 <div align="center">
@@ -28,34 +29,15 @@ I’m passionate about writing clean, maintainable code and always eager to lear
   <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
 </div>
 
-<h2 align="center" class="section-heading">🧩 Frameworks & Libraries</h2>
+<h2 align="center">Frameworks & Libraries</h2>
 
 <p>
-I also work with a range of frameworks and libraries for application development, web development, and AI-powered applications. I am particularly interested in modern frameworks for building scalable software and agentic AI systems.
+For applications I mostly reach for React, and for AI work I build agents with LangChain and LangGraph. On the hardware side I use Chisel to describe digital circuits in Scala.
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Chisel-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Chisel" />
 </div>
-
-
-  
-  
-  
-
-<!--
-**OliverDolle/OliverDolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
