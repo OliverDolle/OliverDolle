@@ -23,7 +23,7 @@ I care about writing code that is clean and easy to maintain. I'm always glad to
 <h2 align="center">Frameworks & Libraries</h2>
 
 <p>
-For applications I mostly reach for React, and for AI work I build agents with LangChain and LangGraph. On the hardware side I use Chisel to describe digital circuits in Scala.
+For applications I mostly reach for React, and for AI work I build agents with LangChain and LangGraph.
 </p>
 
 <div align="center">
